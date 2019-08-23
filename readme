@@ -1,0 +1,3 @@
+Материалы по reportlab
+report_header_example.py : Пример с GitHub.com по использованию библиотеки
+            генерация pdf-файла с header/footer.
